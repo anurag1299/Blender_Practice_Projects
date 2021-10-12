@@ -1,2 +1,2 @@
 # Blender_Practice_Projects
-Easy Bleder projects from newbie
+Easy Bleder projects from newbies
